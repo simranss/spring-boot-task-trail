@@ -1,3 +1,8 @@
 spring:
   application:
     name: tasktrail
+
+app:
+  greeting:
+    prefix: "Hello"
+    shout: false
